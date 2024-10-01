@@ -11,7 +11,7 @@ Contributions to the Project:
 Here is the product image:
 ![Picture1](https://github.com/user-attachments/assets/b0f4536d-a64c-47c1-a90f-0a7474f19b1a)
 
-These are the images of the front end develop in labview.
+These are the images of the front end developed in labview.
 Complete details of the product:
 
 ![Screenshot 2024-10-01 154637](https://github.com/user-attachments/assets/e86ce2ed-ca69-4cd4-b0f6-07ba4388d5e4)
