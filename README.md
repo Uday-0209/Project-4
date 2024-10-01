@@ -7,3 +7,19 @@ Contributions to the Project:
 3) Integration of the system with machine learning models for fault and defect detection.
 4) The project had two versions. The first was a basic version that captured and displayed signals for monitoring purposes. The second version could capture and analyze vibration, temperature, tachometer data, and a few digital inputs and outputs.
 5) This device operates in real time, and the technology was transferred to a private manufacturer.
+
+Here is the product image:
+![Picture1](https://github.com/user-attachments/assets/b0f4536d-a64c-47c1-a90f-0a7474f19b1a)
+
+These are the images of the front end develop in labview.
+1) 
+![db3](https://github.com/user-attachments/assets/a5d25664-3a23-446a-b554-b891c6765ff1)
+
+2)
+![db4](https://github.com/user-attachments/assets/c3e0db4f-29c9-4ee8-b753-aa030ab172f2)
+
+3)
+![db1](https://github.com/user-attachments/assets/1fd88124-8bc2-48c0-b18f-31c3029a28d7)
+
+4)
+![db2](https://github.com/user-attachments/assets/c64a6e62-5572-4353-866e-d85de7fd842b)
